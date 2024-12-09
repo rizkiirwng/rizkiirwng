@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm muhammad rizki irawan nugraha</h1>
-<h3 align="center">Saya adalah seorang siswa di SMK Wikrama Bogor dengan fokus pada Pengembangan Perangkat Lunak dan Game. Saya tertarik pada pengembangan backend dan telah mengembangkan keterampilan dalam menciptakan fondasi teknologi untuk aplikasi.</h3>
+<h3 align="center">"Saya adalah siswa di SMK Wikrama Bogor yang fokus pada Pengembangan Perangkat Lunak dan Game. Saya memiliki minat yang mendalam dalam pengembangan backend, dengan keahlian dalam membangun fondasi teknologi yang kuat untuk aplikasi. Saya menikmati memecahkan masalah teknis, mengoptimalkan sistem, dan menciptakan solusi yang andal serta efisien untuk mendukung pengalaman pengguna yang luar biasa. Selain itu, saya berkomitmen untuk terus belajar dan mengikuti perkembangan teknologi terbaru dalam pengembangan perangkat lunak.".</h3>
 
 - 🔭 I’m currently working on [web_masjid](http://localhost/OOP/tugasrizki/)
 
