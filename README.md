@@ -4,8 +4,7 @@
 Saya memiliki keahlian dalam menyusun arsitektur sistem, mengelola basis data, serta mengoptimalkan performa dan efisiensi aplikasi agar dapat memberikan pengalaman pengguna yang maksimal. Saya terbiasa bekerja secara sistematis dalam menyelesaikan masalah teknis dan menciptakan solusi yang scalable serta andal.
 
 Selain itu, saya memiliki semangat belajar yang tinggi dan terus berupaya mengikuti perkembangan teknologi terbaru, agar dapat berkontribusi secara relevan di industri pengembangan perangkat lunak yang terus berkembang."
-
-".</h3>
+</h3>
 
 - 🔭 I’m currently working on [web_masjid](http://localhost/OOP/tugasrizki/)
 
